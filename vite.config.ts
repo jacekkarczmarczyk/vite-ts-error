@@ -11,7 +11,8 @@ export default defineConfig(() => ({
         lintCommand: 'eslint "./src/**/*.{vue,js,jsx,cjs,mjs,ts,tsx,cts,mts}"',
       },
       overlay: true,
-      typescript: true,
+      // typescript: true,
+      vueTsc: true,
     }),
   ],
   resolve: {

@@ -1,7 +1,7 @@
 <template>
   <div>
     <the-foo />
-    <the-bar />
+    <the-bar :foo="{}" />
   </div>
 </template>
 

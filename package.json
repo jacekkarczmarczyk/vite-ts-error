@@ -22,6 +22,7 @@
     "@types/node": "^18.11.9",
     "@vitejs/plugin-vue2": "^2.0.1",
     "@vue/eslint-config-typescript": "^11.0.2",
+    "@vue/runtime-dom": "^3.2.45",
     "eslint": "^8.28.0",
     "eslint-config-jkarczm": "^6.4.0",
     "eslint-plugin-vue": "^9.8.0",

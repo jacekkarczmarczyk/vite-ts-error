@@ -1,11 +1,10 @@
 import type { RootState } from '@/store';
 import type { Store } from 'vuex';
+// import { Component } from 'vue';
 
-declare module '*.vue' {
-  import Vue from 'vue';
-
-  export default Vue;
-}
+// declare module '*.vue' {
+//   export default Component<any, any, any, any, Record<string, unknown>>;
+// }
 
 declare module 'vue/types/vue' {
   interface Vue {

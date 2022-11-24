@@ -1,5 +1,5 @@
 <template>
-  <the-bar>foo</the-bar>
+  <the-bar :foo="[]" />
 </template>
 
 <script setup>
